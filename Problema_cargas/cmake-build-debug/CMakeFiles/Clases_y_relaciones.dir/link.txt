@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Clases_y_relaciones.dir/main.cpp.o CMakeFiles/Clases_y_relaciones.dir/Carga.cpp.o  -o Clases_y_relaciones 

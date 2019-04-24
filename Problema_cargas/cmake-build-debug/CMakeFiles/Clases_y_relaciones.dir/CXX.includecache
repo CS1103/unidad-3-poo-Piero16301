@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Carga.cpp
+stdio.h
+-
+math.h
+-
+Carga.h
+/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Carga.h
+
+/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Carga.h
+
+/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/main.cpp
+iostream
+-
+vector
+-
+Carga.h
+/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Carga.h
+
