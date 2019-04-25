@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Clases_y_relaciones.dir/main.cpp.o"
   "CMakeFiles/Clases_y_relaciones.dir/Carga.cpp.o"
+  "CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.o"
+  "CMakeFiles/Clases_y_relaciones.dir/TDD.cpp.o"
   "Clases_y_relaciones.pdb"
   "Clases_y_relaciones"
 )

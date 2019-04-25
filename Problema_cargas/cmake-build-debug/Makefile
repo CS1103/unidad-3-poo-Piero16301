@@ -150,6 +150,60 @@ Carga.cpp.s:
 	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/Carga.cpp.s
 .PHONY : Carga.cpp.s
 
+Simulador.o: Simulador.cpp.o
+
+.PHONY : Simulador.o
+
+# target to build an object file
+Simulador.cpp.o:
+	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.o
+.PHONY : Simulador.cpp.o
+
+Simulador.i: Simulador.cpp.i
+
+.PHONY : Simulador.i
+
+# target to preprocess a source file
+Simulador.cpp.i:
+	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.i
+.PHONY : Simulador.cpp.i
+
+Simulador.s: Simulador.cpp.s
+
+.PHONY : Simulador.s
+
+# target to generate assembly for a file
+Simulador.cpp.s:
+	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.s
+.PHONY : Simulador.cpp.s
+
+TDD.o: TDD.cpp.o
+
+.PHONY : TDD.o
+
+# target to build an object file
+TDD.cpp.o:
+	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/TDD.cpp.o
+.PHONY : TDD.cpp.o
+
+TDD.i: TDD.cpp.i
+
+.PHONY : TDD.i
+
+# target to preprocess a source file
+TDD.cpp.i:
+	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/TDD.cpp.i
+.PHONY : TDD.cpp.i
+
+TDD.s: TDD.cpp.s
+
+.PHONY : TDD.s
+
+# target to generate assembly for a file
+TDD.cpp.s:
+	$(MAKE) -f CMakeFiles/Clases_y_relaciones.dir/build.make CMakeFiles/Clases_y_relaciones.dir/TDD.cpp.s
+.PHONY : TDD.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +243,12 @@ help:
 	@echo "... Carga.o"
 	@echo "... Carga.i"
 	@echo "... Carga.s"
+	@echo "... Simulador.o"
+	@echo "... Simulador.i"
+	@echo "... Simulador.s"
+	@echo "... TDD.o"
+	@echo "... TDD.i"
+	@echo "... TDD.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

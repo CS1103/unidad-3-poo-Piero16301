@@ -4,6 +4,11 @@
 CMakeFiles/Clases_y_relaciones.dir/Carga.cpp.o: ../Carga.cpp
 CMakeFiles/Clases_y_relaciones.dir/Carga.cpp.o: ../Carga.h
 
+CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.o: ../Carga.h
+CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.o: ../Simulador.cpp
+CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.o: ../Simulador.h
+
 CMakeFiles/Clases_y_relaciones.dir/main.cpp.o: ../Carga.h
+CMakeFiles/Clases_y_relaciones.dir/main.cpp.o: ../Simulador.h
 CMakeFiles/Clases_y_relaciones.dir/main.cpp.o: ../main.cpp
 

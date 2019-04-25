@@ -90,6 +90,15 @@
 		<Unit filename="/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Carga.h">
 			<Option target="Clases_y_relaciones"/>
 		</Unit>
+		<Unit filename="/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Simulador.cpp">
+			<Option target="Clases_y_relaciones"/>
+		</Unit>
+		<Unit filename="/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Simulador.h">
+			<Option target="Clases_y_relaciones"/>
+		</Unit>
+		<Unit filename="/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/TDD.cpp">
+			<Option target="Clases_y_relaciones"/>
+		</Unit>
 		<Unit filename="/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/main.cpp">
 			<Option target="Clases_y_relaciones"/>
 		</Unit>

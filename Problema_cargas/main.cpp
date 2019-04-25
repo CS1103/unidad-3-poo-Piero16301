@@ -1,11 +1,13 @@
 #include <iostream>
 #include <vector>
 #include "Carga.h"
+#include "Simulador.h"
+#include "catch.hpp"
 
 using namespace std;
 
 int main() {
-    //Vector que va a almacenar las cargas
+    /*//Vector que va a almacenar las cargas
     vector <Carga> cargas;
     //Declaracion de las cargas
     int numCargas;
@@ -26,9 +28,15 @@ int main() {
     //Sumamos el potencial de las cargas
     double vTotal = 0;
     for (int i = 0; i < cargas.size(); i++) {
-        vTotal = cargas[i].calcularPotencial(x,y);
+        vTotal = vTotal + cargas[i].calcularPotencial(x,y);
     }
     //Imprimir el resultado
-    cout << "\nEl potencial total es: " << vTotal << " voltios." << '\n';
+    cout << "\nEl potencial total es: " << vTotal << " voltios." << '\n';*/
+
+    Simulador simulador;
+
+    simulador.generarCargas();
+    simulador.imprimirVoltajes();
+
     return 0;
 }

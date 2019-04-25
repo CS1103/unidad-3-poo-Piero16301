@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Carga.cpp" "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/Clases_y_relaciones.dir/Carga.cpp.o"
+  "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/Simulador.cpp" "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/Clases_y_relaciones.dir/Simulador.cpp.o"
+  "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/TDD.cpp" "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/Clases_y_relaciones.dir/TDD.cpp.o"
   "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/main.cpp" "/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/Clases_y_relaciones.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
