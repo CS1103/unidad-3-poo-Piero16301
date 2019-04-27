@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Proyecto_cargas.dir/main.cpp.o CMakeFiles/Proyecto_cargas.dir/Carga.cpp.o CMakeFiles/Proyecto_cargas.dir/Simulador.cpp.o CMakeFiles/Proyecto_cargas.dir/Test_cargas.cpp.o  -o Proyecto_cargas 

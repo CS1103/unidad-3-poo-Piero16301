@@ -1,0 +1,3 @@
+/home/piero/Documents/Proyecto_cargas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/piero/Documents/Proyecto_cargas/cmake-build-debug/CMakeFiles/Proyecto_cargas.dir
+/home/piero/Documents/Proyecto_cargas/cmake-build-debug/CMakeFiles/edit_cache.dir
