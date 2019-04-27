@@ -1,3 +1,0 @@
-/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/Clases_y_relaciones.dir
-/home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug/CMakeFiles/edit_cache.dir

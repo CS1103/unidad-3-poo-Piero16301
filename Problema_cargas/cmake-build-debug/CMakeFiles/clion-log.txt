@@ -1,4 +1,0 @@
-/home/piero/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas
--- Configuring done
--- Generating done
--- Build files have been written to: /home/piero/Documents/unidad-3-poo-Piero16301/Problema_cargas/cmake-build-debug
